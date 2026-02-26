@@ -1,0 +1,133 @@
+{
+  "updated": "2026-02-26",
+  "items": [
+    {
+      "authors": "Lu Y (first & corresponding), Lichstein JW, Khare S, Holt RD, Yurek S, DeAngelis DL",
+      "year": 2025,
+      "title": "Slow and fast dispersers competing in heterogeneous landscapes: a comparative study of modeling perspectives",
+      "journal": "Under review",
+      "volume": "",
+      "pages": "",
+      "status": "Under review",
+      "doi": "",
+      "url": "",
+      "preprint": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5687992",
+      "keywords": [
+        "dispersal",
+        "coexistence",
+        "spatial heterogeneity",
+        "ABM",
+        "Lotka\u2013Volterra",
+        "reaction\u2013diffusion"
+      ]
+    },
+    {
+      "authors": "Lu Y, Xia J, Khare SB, Gillooly JF, Zhang W, DeAngelis DL, Holt RD",
+      "year": 2024,
+      "title": "Climate-driven spatial competition: a metapopulation patch model assessing range expansion in species with different dispersal rates",
+      "journal": "Frontiers in Environmental Science",
+      "volume": "",
+      "pages": "",
+      "status": "Under review",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "range expansion",
+        "climate",
+        "metapopulation",
+        "dispersal",
+        "spatial competition"
+      ]
+    },
+    {
+      "authors": "Lu Y, Xia J, Holt RD, DeAngelis DL",
+      "year": 2024,
+      "title": "Modeling the effects of spatial distribution on dynamics of an invading Melaleuca quinquenervia population",
+      "journal": "Forests",
+      "volume": "15",
+      "pages": "1308",
+      "status": "Published",
+      "doi": "10.3390/f15081308",
+      "url": "https://www.mdpi.com/1999-4907/15/8/1308",
+      "preprint": "",
+      "keywords": [
+        "invasion",
+        "Melaleuca",
+        "spatial distribution",
+        "modeling"
+      ]
+    },
+    {
+      "authors": "Magee LJ, LaManna JA, Wolf AT, Howe RW, Lu Y, Valle D, Johnson DJ",
+      "year": 2024,
+      "title": "The unexpected influence of legacy conspecific density dependence",
+      "journal": "Ecology Letters",
+      "volume": "27",
+      "pages": "e14449",
+      "status": "Published",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "conspecific density dependence",
+        "legacy effects",
+        "forest dynamics"
+      ]
+    },
+    {
+      "authors": "Lu Y, Xia J, Magee LJ, DeAngelis DL",
+      "year": 2023,
+      "title": "Seed dispersal and tree legacies influence spatial patterns of plant invasion dynamics",
+      "journal": "Frontiers in Applied Mathematics and Statistics",
+      "volume": "9",
+      "pages": "1086781",
+      "status": "Published",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "seed dispersal",
+        "plant invasion",
+        "spatial patterns",
+        "tree legacies"
+      ]
+    },
+    {
+      "authors": "Lu Y, DeAngelis DL, Xia J, Jiang J",
+      "year": 2022,
+      "title": "Modeling the impact of invasive species litter on conditions affecting its spread and potential regime shift",
+      "journal": "Ecological Modelling",
+      "volume": "468",
+      "pages": "109962",
+      "status": "Published",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "litter",
+        "regime shift",
+        "invasive species",
+        "ecological modeling"
+      ]
+    },
+    {
+      "authors": "Fu Z, Lu Y, DeAngelis DL, Zhang J, Zhang B",
+      "year": 2021,
+      "title": "Integrating mechanical treatment and biological control to improve field treatment efficiency on invasions",
+      "journal": "Elementa: Science of the Anthropocene",
+      "volume": "9",
+      "pages": "00181",
+      "status": "Published",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "biocontrol",
+        "mechanical treatment",
+        "management",
+        "invasions"
+      ]
+    }
+  ]
+}
