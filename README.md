@@ -4,7 +4,7 @@ This is a lightweight, fully static academic website (HTML/CSS/JS) you can host 
 It is intentionally simple: no build step, no dependencies, and easy-to-edit content.
 
 ## Preview locally (recommended)
-Because the Publications page loads `data/publications.json` using `fetch()`, you should preview via a tiny local web server:
+Because the Publications page loads BibTeX and JSON files using `fetch()`, you should preview via a tiny local web server:
 
 ```bash
 # from the website folder:
@@ -31,7 +31,9 @@ Then open: `http://localhost:8000`
 - **Teaching page**: `teaching.html`
 - **Contact page**: `contact.html`
 - **Publications**:
-  - Edit `data/publications.json` (recommended) and the publications page will update automatically.
+  - Published articles: sign in to your Google Scholar profile, select all articles, choose **Export → BibTeX**, and save the download as `data/google-scholar.bib`, replacing the previous file.
+  - Under-review manuscripts: edit `data/under-review.json`.
+  - Commit the changed data file(s) to `main`; GitHub Pages will redeploy automatically. No build step or API key is required.
 - **Add your CV PDF**:
   - Put your CV at `assets/docs/CV_YuanmingLu.pdf` and the CV button will work.
 - **Profile photo**:
