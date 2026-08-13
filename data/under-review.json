@@ -1,0 +1,38 @@
+{
+  "updated": "2026-08-13",
+  "items": [
+    {
+      "authors": "Yuanming Lu (first and corresponding author), Jeremy W. Lichstein, Robert D. Holt, Donald L. DeAngelis",
+      "year": 2026,
+      "title": "Initial invasion footprint shapes biocontrol outcome in a spatially explicit individual-based model of Melaleuca invasion and biocontrol",
+      "journal": "Individual-based Ecology",
+      "status": "Under review",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "biocontrol",
+        "individual-based model",
+        "invasion footprint",
+        "Melaleuca"
+      ]
+    },
+    {
+      "authors": "Yuanming Lu, Junfei Xia, Sikander B. Khare, James F. Gillooly, Weizhe Zhang, Donald L. DeAngelis, Robert D. Holt",
+      "year": 2026,
+      "title": "Climate-driven spatial competition: a metapopulation patch model assessing range expansion in species with different dispersal rates",
+      "journal": "",
+      "status": "Under review",
+      "doi": "",
+      "url": "",
+      "preprint": "",
+      "keywords": [
+        "climate",
+        "dispersal",
+        "metapopulation",
+        "range expansion",
+        "spatial competition"
+      ]
+    }
+  ]
+}

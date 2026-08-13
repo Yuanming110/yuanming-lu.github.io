@@ -290,6 +290,13 @@ small{color:var(--muted)}
   flex-direction:column;
   gap: 10px;
 }
+.pub-message{
+  color: var(--muted);
+  margin: 0 0 12px 0;
+}
+.pub-message.error{
+  color: #9f1239;
+}
 .pub{
   padding: 14px;
   border: 1px solid var(--border);
