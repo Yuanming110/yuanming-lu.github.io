@@ -22,6 +22,7 @@ Then open: `http://localhost:8000`
    - Source: Deploy from a branch
    - Branch: `main` / root
 4. Your site will be live at:
+   https://yuanming110.github.io/yuanming-lu.github.io/index.html
    - `https://<your-username>.github.io/` (if repo is `<your-username>.github.io`)
    - or `https://<your-username>.github.io/<repo>/` (if it’s a normal repo)
 
